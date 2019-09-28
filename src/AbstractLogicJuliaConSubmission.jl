@@ -1,4 +1,4 @@
-module JuliaConSubmission
+module AbstractLogicJuliaConSubmission.jl
 
 greet() = print("Hello World!")
 

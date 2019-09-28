@@ -1,21 +1,17 @@
-title: "My JuliaCon proceeding"
+title: "AbstractLogic.jl - An Abstract Logic Programing Language Solver"
 keywords:
   - Julia
-  - Optimization
-  - Game theory
-  - Compiler
+  - Abstract Logic
+  - Logical Solver
+  - Automated Item Generation
 authors:
-  - name: 1st author
-    orcid: 0000-0003-1361-440X
-    affiliation: 1
-  - name: 2nd author
+  - name: Francis Smart
+    orcid: 0000-0003-4308-178X
     affiliation: 1, 2
-  - name: 3rd author
-    affiliation: 2
 affiliations:
-  - name: University
+  - name: Michigan State University
     index: 1
-  - name: National Lab
+  - name: United States Department of Transportation
     index: 2
-date: 24 April 2019
+date: 27 September 2019
 bibliography: ref.bib
