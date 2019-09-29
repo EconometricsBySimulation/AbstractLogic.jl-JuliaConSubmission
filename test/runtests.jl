@@ -1,6 +1,6 @@
 using JuliaConSubmission
 using Test
 
-@testset "JuliaConSubmission.jl" begin
+@testset "AbstractLogicJuliaConSubmission.jl" begin
     # Write your own tests here.
 end
